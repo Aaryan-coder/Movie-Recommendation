@@ -1,4 +1,6 @@
-I have buikt this application using React.js, Firebase and Styled Components. 
+##Movie Recommendation System
+
+I have built this application using React.js, Firebase and Styled Components. 
 
 I have built the following pages within this application: sign in, sign up, browse and the homepage. 
 
