@@ -8,5 +8,6 @@ I have used firebase for database and for user authentication as well. Firebase 
 
 The styling done by styled components.
 
+<h2>I have deployed my project using netlify</h2>
 <h1>You can have a look at my website here: </h1>
 https://movie-engage.netlify.app/
