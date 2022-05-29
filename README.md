@@ -1,4 +1,4 @@
-##Movie Recommendation System
+<h1>Movie Recommendation System</h1>
 
 I have built this application using React.js, Firebase and Styled Components. 
 
